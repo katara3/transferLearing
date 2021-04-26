@@ -1,0 +1,12 @@
+*.pyc
+*.jpg
+__pycache__
+.DS_Store
+.ipynb_checkpoints
+build
+dist
+live
+dataset
+project
+mdv.egg-info
+
